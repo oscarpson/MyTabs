@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
             return rootView;
         }
     }
-
+///
     /**
      * A {@link FragmentPagerAdapter} that returns a fragment corresponding to
      * one of the sections/tabs/pages.
